@@ -5,7 +5,7 @@ This project is a simple and intuitive currency converter built with React. It a
 ## Features
 - Real-Time Exchange Rates: Fetches the latest currency exchange rates.
 - Multiple Currencies: Supports conversion between a wide range of currencies.
-- User-Friendly Interface: Easy-to-use interface for quick currency conversion.
+- User-Friendly Interface: Easy-to-use interface for quick currency conversions.
 
 ## Usage
 - Enter the amount you wish to convert.
